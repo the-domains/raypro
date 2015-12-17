@@ -1,6 +1,6 @@
 name: RAYPRO
 favicon: null
-layout_spectrum: 0.3556309451814741
+layout_spectrum: 1
 typography_spectrum: 0.48483
 title: RAY PRO PHOTOGRAPHY
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.12166418042033911
-  lightness: 0.1885305973701179
-  saturation: 0.9026324544101954
+    - '#000000'
+    - '#ffffff'
+    - '#b9b9b9'
+    - '#4f4f4f'
+    - '#7c7c7c'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5987314023077488
 purpose: []
